@@ -1,0 +1,2 @@
+{"/home/goja288/Documents/git/try_jest/sum.ts": {"path":"/home/goja288/Documents/git/try_jest/sum.ts","statementMap":{"0":{"start":{"line":2,"column":4},"end":{"line":2,"column":17}}},"fnMap":{"0":{"name":"sum","decl":{"start":{"line":1,"column":16},"end":{"line":1,"column":19}},"loc":{"start":{"line":1,"column":26},"end":{"line":3,"column":1}},"line":1}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"ac458878c7814e057ff9f05893b2ec230e9d3883"}
+}
